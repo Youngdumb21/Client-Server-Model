@@ -1,0 +1,10 @@
+import java.net.*
+
+classes
+InetAddress getByName(), getAllByName(), getLocalHost(Host Name- string value)
+Socket client socket, accept() method return socket
+welcoming socket(passive) connection(active)
+ServerSocket(int port)
+
+
+
